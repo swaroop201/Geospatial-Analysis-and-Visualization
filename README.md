@@ -83,5 +83,4 @@ The project demonstrates the power of geospatial tools in deriving actionable in
 
 This README file provides an overview of the project while the report outlines detailed workflows, challenges, and outcomes.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/31435743/9f249a04-bc98-4353-ad5b-5cee933b64bf/DV_Report.pdf
+
